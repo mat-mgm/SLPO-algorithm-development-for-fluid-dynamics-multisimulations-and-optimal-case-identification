@@ -1,6 +1,5 @@
 # SLPO (Simulation Launcher & Pareto Optimization) algorithm development for fluid dynamics multisimulations (OpenFOAM) and optimal case identification
-![Logo](images/logo.jpg){: width="50%"}
-
+<img src="images/logo.jpg" width="300" />
 This project has been presented as a final project for the Bachelor's degree in Industrial Electronics and Automatic Control Engineering at the Manresa School of Engineering (EPSEM) belonging to Universitat Politècnica de Catalunya (UPC) and directed by Enrique Bonet and Francesc Perez.
 
 ## Abstract
